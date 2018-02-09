@@ -1,0 +1,87 @@
+* {
+    background-color: grey;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+ 
+  
+  header, nav {
+    background-color: white;
+    padding: 50px;
+    color: grey;
+    width: 960px;
+    margin: 10px auto 10px auto;
+    clear: both;
+
+   
+  }
+
+  #container {
+      width: 960px;
+      margin: 10px auto 10px auto;
+  }
+  
+  section {
+    background-color: white;
+    padding: 20px;
+    width: 500px;
+    height: 380px;
+    margin: 10px auto 10px auto;
+    float: left;
+    color: grey;
+
+   
+  }
+  
+  aside {
+    background-color: white;
+    color: grey;
+    width: 470px;
+    float: left;
+    height: 400px;
+    padding: 50px;
+    border: 10px solid grey;
+    
+    
+  }
+  
+  article {
+    background-color: #888;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    margin-top: 75px;
+    
+  }
+  
+  h1 {
+    
+    background-color: white;
+    color: grey;
+    padding: 20px;
+    border-bottom: 5px solid grey;
+    margin-top: 20px;
+   
+  
+  }
+  
+  p {
+    background-color: white;
+    color: grey;
+    padding: 20px;
+    height: 60px;
+    
+  
+  }
+
+  footer {
+    background-color: white;
+    padding: 50px;
+    color: grey;
+    width: 960px;
+    margin: 10px auto 10px auto;
+    clear: both;
+    margin-bottom: 90px;
+
+  }
